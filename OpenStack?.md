@@ -1,4 +1,3 @@
-> 개인적으로 학습한 내용을 바탕으로 작성한 글입니다. 잘못됐거나 미흡한 부분이 있다면 댓글 남겨주시면 감사하겠습니다.
 
 ## OpenStack (오픈스택) ?
 
@@ -14,14 +13,14 @@
 
 ## OpenStack Landscape
 
-[##_Image|kage@l5nbW/btsObXWbcRQ/MKUkXKu1VKcvhd6s4N8s6K/img.png|CDM|1.3|{"originWidth":920,"originHeight":517,"style":"alignCenter"}_##]
+![OpenStack Landscape](https://github.com/beengineer500/Z.Attachments/blob/5cc31afc4eb93fd01828697a552a4e2b8c16d7b2/OpenStack/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202025-05-26%2020.45.16.png)
 
-_출처 : [https://www.openstack.org/software/](https://www.openstack.org/software/)_
+_출처 : https://www.openstack.org/software/_
 
 
 ---
 
 _References_
 
--   [https://www.openstack.org/software/](https://www.openstack.org/software/)
--   [https://velog.io/@dojun527/%EC%98%A4%ED%94%88-%EC%8A%A4%ED%83%9D%EC%9D%B4%EB%9E%80](https://velog.io/@dojun527/%EC%98%A4%ED%94%88-%EC%8A%A4%ED%83%9D%EC%9D%B4%EB%9E%80)
+-   https://www.openstack.org/software/
+-   https://velog.io/@dojun527/%EC%98%A4%ED%94%88-%EC%8A%A4%ED%83%9D%EC%9D%B4%EB%9E%80
